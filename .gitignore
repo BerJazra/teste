@@ -1,4 +1,27 @@
-.Rproj.user
+# Dados
+data/
+raw_data/
+*.dta
+*.csv
+*.xlsx
+
+# Outputs
+output/
+results/
+figures/
+tables/
+logs/
+
+# R
 .Rhistory
 .RData
-.Ruserdata
+.Rproj.user/
+
+# Stata
+*.log
+*.gph
+
+# Sistema
+.DS_Store
+Thumbs.db
+
