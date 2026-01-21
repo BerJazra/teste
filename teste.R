@@ -11,4 +11,4 @@ cde = 345
 
 a line here
 
-ASKKSodofomaçgslsldpdlwpdlwflfç
+'-' ->    -                <- '-'
